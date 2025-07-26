@@ -1,0 +1,299 @@
+{
+  "tax_laws": [
+    {
+      "id": "80385",
+      "law_number": "193",
+      "name": "GELİR VERGİSİ KANUNU",
+      "rgt": "06/01/1961",
+      "rgn": "10700",
+      "kt": "31/12/1960",
+      "selected": true
+    },
+    {
+      "id": "80326",
+      "law_number": "213",
+      "name": "VERGİ USUL KANUNU",
+      "rgt": "10/01/1961",
+      "rgn": "10703",
+      "kt": "04/01/1961"
+    },
+    {
+      "id": "80335",
+      "law_number": "5520",
+      "name": "KURUMLAR VERGİSİ KANUNU",
+      "rgt": "21/06/2006",
+      "rgn": "26205",
+      "kt": "13/06/2006"
+    },
+    {
+      "id": "80322",
+      "law_number": "3065",
+      "name": "KATMA DEĞER VERGİSİ KANUNU",
+      "rgt": "02/11/1984",
+      "rgn": "18563",
+      "kt": "25/10/1984"
+    },
+    {
+      "id": "80365",
+      "law_number": "4760",
+      "name": "ÖZEL TÜKETİM VERGİSİ KANUNU",
+      "rgt": "12/06/2002",
+      "rgn": "24783",
+      "kt": "06/06/2002"
+    },
+    {
+      "id": "80255",
+      "law_number": "488",
+      "name": "DAMGA VERGİSİ KANUNU",
+      "rgt": "11/07/1964",
+      "rgn": "11751",
+      "kt": "01/07/1964"
+    },
+    {
+      "id": "80232",
+      "law_number": "492",
+      "name": "HARÇLAR KANUNU",
+      "rgt": "17/07/1964",
+      "rgn": "11756",
+      "kt": "02/07/1964"
+    },
+    {
+      "id": "80370",
+      "law_number": "7338",
+      "name": "VERASET VE İNTİKAL VERGİSİ KANUNU",
+      "rgt": "15/06/1959",
+      "rgn": "10231",
+      "kt": "08/06/1959"
+    },
+    {
+      "id": "80310",
+      "law_number": "197",
+      "name": "MOTORLU TAŞITLAR VERGİSİ KANUNU",
+      "rgt": "23/02/1963",
+      "rgn": "11342",
+      "kt": "18/02/1963"
+    },
+    {
+      "id": "80346",
+      "law_number": "6183",
+      "name": "AMME ALACAKLARININ TAHSİL USULÜ HAKKINDA KANUN",
+      "rgt": "28/07/1953",
+      "rgn": "8469",
+      "kt": "21/07/1953"
+    },
+    {
+      "id": "80328",
+      "law_number": "3100",
+      "name": "KATMA DEĞER VERGİSİ MÜKELLEFLERİNİN ÖDEME KAYDEDİCİ CİHAZLARI KULLANMALARI MECBURİYETİ HAKKINDA KANUN",
+      "rgt": "15/12/1984",
+      "rgn": "18606",
+      "kt": "06/12/1984"
+    },
+    {
+      "id": "80349",
+      "law_number": "3568",
+      "name": "SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK VE YEMİNLİ MALİ MÜŞAVİRLİK KANUNU",
+      "rgt": "13/06/1989",
+      "rgn": "20194",
+      "kt": "01/06/1989"
+    },
+    {
+      "id": "80264",
+      "law_number": "6802",
+      "name": "GİDER VERGİLERİ KANUNU",
+      "rgt": "23/07/1956",
+      "rgn": "9362",
+      "kt": "13/07/1956"
+    },
+    {
+      "id": "80379",
+      "law_number": "210",
+      "name": "DEĞERLİ KAĞITLAR KANUNU",
+      "rgt": "28/02/1963",
+      "rgn": "11343",
+      "kt": "21/02/1963"
+    },
+    {
+      "id": "80375",
+      "law_number": "1319",
+      "name": "EMLAK VERGİSİ KANUNU",
+      "rgt": "11/08/1970",
+      "rgn": "13576",
+      "kt": "29/07/1970"
+    },
+    {
+      "id": "80324",
+      "law_number": "1905",
+      "name": "MENKUL VE GAYRİMENKUL EMVAL İLE BUNLARIN İNTİFA HAKLARININ VE DAİMİ VERGİLERİN MEKTUMLARINI HABER VERENLERE VERİLECEK İKRAMİYE HAKKINDA KANUN",
+      "rgt": "31/12/1931",
+      "rgn": "1990",
+      "kt": "26/12/1931"
+    },
+    {
+      "id": "80374",
+      "law_number": "2464",
+      "name": "BELEDİYE GELİRLERİ KANUNU",
+      "rgt": "29/05/1981",
+      "rgn": "17354",
+      "kt": "26/05/1981"
+    },
+    {
+      "id": "80325",
+      "law_number": "2575",
+      "name": "DANIŞTAY KANUNU",
+      "rgt": "20/01/1982",
+      "rgn": "17580",
+      "kt": "06/01/1982"
+    },
+    {
+      "id": "80302",
+      "law_number": "2576",
+      "name": "BÖLGE İDARE MAHKEMELERİ, İDARE MAHKEMELERİ VE VERGİ MAHKEMELERİNİN KURULUŞU VE GÖREVLERİ HAKKINDA KANUN",
+      "rgt": "20/01/1982",
+      "rgn": "17580",
+      "kt": "06/01/1982"
+    },
+    {
+      "id": "80274",
+      "law_number": "2577",
+      "name": "İDARİ YARGILAMA USULÜ KANUNU",
+      "rgt": "20/01/1982",
+      "rgn": "17580",
+      "kt": "06/01/1982"
+    },
+    {
+      "id": "80287",
+      "law_number": "4358",
+      "name": "VERGİ KİMLİK NUMARASI KULLANIMININ YAYGINLAŞTIRILMASI HAKKINDA KANUN",
+      "rgt": "04/04/1998",
+      "rgn": "23307",
+      "kt": "02/04/1998"
+    },
+    {
+      "id": "80260",
+      "law_number": "4962",
+      "name": "BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI VE VAKIFLARA VERGİ MUAFİYETİ TANINMASI HAKKINDA KANUN",
+      "rgt": "07/08/2003",
+      "rgn": "25192",
+      "kt": "30/07/2003"
+    },
+    {
+      "id": "80332",
+      "law_number": "5597",
+      "name": "YURT DIŞINA ÇIKIŞ HARCI HAKKINDA KANUN İLE ÇEŞİTLİ KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
+      "rgt": "23/03/2007",
+      "rgn": "26471",
+      "kt": "08/03/2007"
+    },
+    {
+      "id": "80250",
+      "law_number": "5602",
+      "name": "ŞANS OYUNLARI HASILATINDAN ALINAN VERGİ, FON VE PAYLARIN DÜZENLENMESİ HAKKINDA KANUN",
+      "rgt": "21/03/2007",
+      "rgn": "26469",
+      "kt": "14/03/2007"
+    },
+    {
+      "id": "80304",
+      "law_number": "5604",
+      "name": "MALÎ TATİL İHDAS EDİLMESİ HAKKINDA KANUN",
+      "rgt": "28/03/2007",
+      "rgn": "26476",
+      "kt": "15/03/2007"
+    },
+    {
+      "id": "80214",
+      "law_number": "4811",
+      "name": "VERGİ BARIŞI KANUNU",
+      "rgt": "27/02/2003",
+      "rgn": "25033",
+      "kt": "25/02/2003"
+    },
+    {
+      "id": "80248",
+      "law_number": "5811",
+      "name": "BAZI VARLIKLARIN MİLLİ EKONOMİYE KAZANDIRILMASI HAKKINDA KANUN",
+      "rgt": "22/11/2008",
+      "rgn": "27062",
+      "kt": "13/11/2008"
+    },
+    {
+      "id": "80293",
+      "law_number": "6111",
+      "name": "BAZI ALACAKLARIN YENİDEN YAPILANDIRILMASI İLE SOSYAL SİGORTALAR VE GENEL SAĞLIK SİGORTASI KANUNU VE DİĞER BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
+      "rgt": "25/02/2011",
+      "rgn": "27857(1.Mük)",
+      "kt": "13/02/2011"
+    },
+    {
+      "id": "80230",
+      "law_number": "6552",
+      "name": "İŞ KANUNU İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASI İLE BAZI ALACAKLARIN YENİDEN YAPILANDIRILMASINA DAİR KANUN",
+      "rgt": "11/09/2014",
+      "rgn": "29116(M)",
+      "kt": "10/09/2014"
+    },
+    {
+      "id": "110296",
+      "law_number": "6736",
+      "name": "BAZI ALACAKLARIN YENİDEN YAPILANDIRILMASINA İLİŞKİN KANUN",
+      "rgt": "19/08/2016",
+      "rgn": "29806",
+      "kt": "03/08/2016"
+    },
+    {
+      "id": "110943",
+      "law_number": "7020",
+      "name": "BAZI ALACAKLARIN YENİDEN YAPILANDIRILMASI İLE BAZI KANUNLARDA VE BİR KANUN HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+      "rgt": "27/05/2017",
+      "rgn": "30078",
+      "kt": "18/05/2017"
+    },
+    {
+      "id": "112309",
+      "law_number": "7143",
+      "name": "VERGİ VE DİĞER BAZI ALACAKLARIN YENİDEN YAPILANDIRILMASI İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA İLİŞKİN KANUN",
+      "rgt": "18/05/2018",
+      "rgn": "30425",
+      "kt": "11/05/2018"
+    },
+    {
+      "id": "112838",
+      "law_number": "7194",
+      "name": "DİJİTAL HİZMET VERGİSİ İLE BAZI KANUNLARDA VE 375 SAYILI KANUN HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
+      "rgt": "07/12/2019",
+      "rgn": "30971",
+      "kt": "05/12/2019"
+    },
+    {
+      "id": "113117",
+      "law_number": "7256",
+      "name": "BAZI ALACAKLARIN YENİDEN YAPILANDIRILMASI İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
+      "rgt": "17/11/2020",
+      "rgn": "31307",
+      "kt": "17/11/2020"
+    },
+    {
+      "id": "113449",
+      "law_number": "7326",
+      "name": "BAZI ALACAKLARIN YENİDEN YAPILANDIRILMASI İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA İLİŞKİN KANUN",
+      "rgt": "09/06/2021",
+      "rgn": "31506",
+      "kt": "03/06/2021"
+    },
+    {
+      "id": "115590",
+      "law_number": "7440",
+      "name": "BAZI ALACAKLARIN YENİDEN YAPILANDIRILMASI İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+      "rgt": "12/03/2023",
+      "rgn": "32130",
+      "kt": "09/03/2023"
+    }
+  ],
+  "metadata": {
+    "total_laws": 35,
+    "description": "Turkish Tax Laws Database",
+    "source": "HTML Select Element",
+    "created": "2024-12-19"
+  }
+}
